@@ -6,9 +6,9 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshudorbi&label=Profile%20views&color=0e75b6&style=flat" alt="himanshudorbi" /> </p>
 
-- 🔭 I’m currently working on **building myself**
+- 🔭 I’m currently working on **Blockchain Technology Project**
 
-- 🌱 I’m addicted to **learning and growing everyday**
+- 🌱 I’m looking to collaborate on **Projects or Task**
 
 - 📫 How to reach me **dorbihimanshu306@gmail.com**
 
