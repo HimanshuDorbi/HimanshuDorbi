@@ -30,9 +30,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy@himanshuDorbi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy@himanshuDorbi" /></a></p><br><br>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudorbi&show_icons=true&locale=en&layout=compact" alt="himanshudorbi" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudorbi&show_icons=true&locale=en&layout=compact" alt="himanshudorbi" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshudorbi&show_icons=true&locale=en" alt="himanshudorbi" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshudorbi&show_icons=true&locale=en" alt="himanshudorbi" /></p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudorbi&" alt="himanshudorbi" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudorbi&" alt="himanshudorbi" /></p>
