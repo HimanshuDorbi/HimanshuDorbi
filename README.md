@@ -38,3 +38,5 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshudorbi&show_icons=true&locale=en" alt="himanshudorbi" /></p></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudorbi&" alt="himanshudorbi" /></p>
+
+<p align = "center">Thanks for visiting my GitHub profile!!😀</p>
