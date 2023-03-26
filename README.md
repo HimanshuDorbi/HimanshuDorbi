@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 👯 I’m looking to collaborate on **Projects and tasks**
+- 🌱 I’m looking to collaborate on **Projects and tasks**
 
 - 💬 Ask me about **react,C, C++**
 
