@@ -23,6 +23,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-dorbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dorbi" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshudorbi" alt="himanshudorbi" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
